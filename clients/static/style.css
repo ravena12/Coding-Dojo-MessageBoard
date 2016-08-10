@@ -1,0 +1,23 @@
+*{
+	margin: 0 auto;
+	text-align: center;
+}
+
+#comment {
+	width: 45%;
+
+}
+#message {
+	width: 50%;
+
+}
+
+.name, h2 {
+	text-align: left;
+}
+
+#inner {
+	width: 55%;
+}
+
+
